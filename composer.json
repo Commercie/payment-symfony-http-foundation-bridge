@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "bartfeenstra/payment": "0.1.*",
+    "bartfeenstra/payment": "0.2.*",
     "php": "~5.5 || ~7.0",
     "symfony/http-foundation": "~2.7"
   },
