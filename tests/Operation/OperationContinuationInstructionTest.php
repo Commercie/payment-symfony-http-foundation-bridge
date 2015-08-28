@@ -2,17 +2,17 @@
 
 /**
  * @file
- * Contains \BartFeenstra\Tests\Payment\Bridge\Symfony\HttpFoundation\OperationContinuationInstructionTest.
+ * Contains \Commercie\Tests\Payment\Bridge\Symfony\HttpFoundation\OperationContinuationInstructionTest.
  */
 
-namespace BartFeenstra\Tests\Payment\Bridge\Symfony\HttpFoundation\Operation;
+namespace Commercie\Tests\Payment\Bridge\Symfony\HttpFoundation\Operation;
 
-use BartFeenstra\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstruction;
+use Commercie\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstruction;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\Response;
 
 /**
- * @coversDefaultClass \BartFeenstra\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstruction
+ * @coversDefaultClass \Commercie\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstruction
  */
 class OperationContinuationInstructionTest extends \PHPUnit_Framework_TestCase
 {

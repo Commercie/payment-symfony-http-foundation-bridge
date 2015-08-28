@@ -2,12 +2,12 @@
 
 /**
  * @file
- * Contains \BartFeenstra\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstruction.
+ * Contains \Commercie\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstruction.
  */
 
-namespace BartFeenstra\Payment\Bridge\Symfony\HttpFoundation\Operation;
+namespace Commercie\Payment\Bridge\Symfony\HttpFoundation\Operation;
 
-use BartFeenstra\Payment\Operation\OperationContinuationInstruction as GenericOperationContinuationInstruction;
+use Commercie\Payment\Operation\OperationContinuationInstruction as GenericOperationContinuationInstruction;
 use Symfony\Component\HttpFoundation\RedirectResponse;
 use Symfony\Component\HttpFoundation\Response;
 

@@ -2,12 +2,12 @@
 
 /**
  * @file
- * Contains \BartFeenstra\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstructionInterface.
+ * Contains \Commercie\Payment\Bridge\Symfony\HttpFoundation\Operation\OperationContinuationInstructionInterface.
  */
 
-namespace BartFeenstra\Payment\Bridge\Symfony\HttpFoundation\Operation;
+namespace Commercie\Payment\Bridge\Symfony\HttpFoundation\Operation;
 
-use BartFeenstra\Payment\Operation\OperationContinuationInstructionInterface as GenericOperationContinuationInstructionInterface;
+use Commercie\Payment\Operation\OperationContinuationInstructionInterface as GenericOperationContinuationInstructionInterface;
 
 /**
  * Defines an operation continuation instruction.
