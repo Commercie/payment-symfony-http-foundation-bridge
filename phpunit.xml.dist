@@ -7,7 +7,7 @@
         <ini name="memory_limit" value="-1"/>
     </php>
     <testsuites>
-        <testsuite name="bartfeenstra/payment-symfony-http-foundation-bridge">
+        <testsuite name="commercie/payment-symfony-http-foundation-bridge">
             <directory>./tests</directory>
         </testsuite>
     </testsuites>
